@@ -62,7 +62,7 @@ The project is divided into three core phases:
 
 Pushpak Umale
 
-Data Engineer | Azure Enthusiast
+Data Engineer
 
 [LinkdIn](https://www.linkedin.com/in/pushpakumale-152530) | [Portfolio](https://pushpakumale.github.io/portfolio/)
 
