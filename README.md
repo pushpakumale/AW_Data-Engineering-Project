@@ -33,8 +33,10 @@ The project is divided into three core phases:
             │   └── databricks-notebooks
             ├── serving
             │   └── synapse-scripts
-            ├── Data (assets)
+            ├── Data
             │   └── sample datasets
+            ├── Assets
+            │   └── Azure assests used
             └── README.md
 
 ### ⚙️ Tech Stack
