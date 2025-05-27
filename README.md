@@ -8,7 +8,7 @@ The project is divided into three core phases:
 
 ### 🟦 Phase 1: Dynamic Data Ingestion
 
-            Ingest data from various sources (e.g., blob storage, REST APIs, databases) using Azure Data Factory and Azure Logic Apps.
+            Ingest data from various sources (e.g., blob storage, API (Github)) using Azure Data Factory.
             Schema evolution and metadata handling with Data Lake Storage Gen2.
             Parameterized and reusable pipeline design for flexibility and automation.
 
@@ -26,17 +26,14 @@ The project is divided into three core phases:
 
 ### 📂 Project Structure
 
-            vbnet
-            Copy
-            Edit
-            📁 azure-end-to-end-project/
-            ├── ingestion/
-            │   └── data-factory-pipelines/
-            ├── transformation/
-            │   └── databricks-notebooks/
-            ├── serving/
-            │   └── synapse-scripts/
-            ├── assets/
+            📁 azure-end-to-end-project
+            ├── ingestion
+            │   └── data-factory-pipelines
+            ├── transformation
+            │   └── databricks-notebooks
+            ├── serving
+            │   └── synapse-scripts
+            ├── assets
             │   └── diagrams, sample datasets
             └── README.md
 
@@ -58,12 +55,9 @@ The project is divided into three core phases:
 
 
 
-### 🧑‍💻 Author
-
-Pushpak Umale
-
-Data Engineer
-
+### 🧑‍💻 Author <br />
+Pushpak Umale \
+Data Engineer \
 [LinkdIn](https://www.linkedin.com/in/pushpakumale-152530) | [Portfolio](https://pushpakumale.github.io/portfolio/)
 
 
