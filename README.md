@@ -43,7 +43,6 @@ The project is divided into three core phases:
             Azure Databricks
             Azure Synapse Analytics
             Azure Data Lake Gen2
-            Delta Lake
             Power BI
 
 ### 🎯 Key Features
