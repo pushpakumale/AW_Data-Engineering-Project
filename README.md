@@ -36,7 +36,7 @@ The project is divided into three core phases:
             ├── Data
             │   └── sample datasets
             ├── Assets
-            │   └── Azure assests used
+            │   └── Azure assets used
             └── README.md
 
 ### ⚙️ Tech Stack
