@@ -1,0 +1,53 @@
+[
+    {
+        "p_rel_url" : "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "sink_folder" : "Calender",
+        "file_name" : "calender.csv"
+    },
+    {
+        "p_rel_url": "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "sink_folder": "Product Categories",
+        "file_name": "product_categories.csv"
+    },
+    {
+        "p_rel_url": "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "sink_folder": "Customers",
+        "file_name": "customers.csv"
+    },
+    {
+        "p_rel_url": "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "sink_folder": "Product Subcategories",
+        "file_name": "product_subcategories.csv"
+    },
+    {
+        "p_rel_url": "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "sink_folder": "Product",
+        "file_name": "product.csv"
+    },
+    {
+        "p_rel_url": "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "sink_folder": "Returns",
+        "file_name": "returns.csv"
+    },
+    {
+        "p_rel_url": "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "sink_folder": "Sales 2015",
+        "file_name": "sales_2015.csv"
+    },
+    {
+        "p_rel_url": "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "sink_folder": "Sales 2016",
+        "file_name": "sales_2016.csv"
+    },
+    {
+        "p_rel_url": "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "sink_folder": "Sales 2017",
+        "file_name": "sales_2017.csv"
+    },
+    {
+        "p_rel_url": "pushpakumale/AW_Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "sink_folder": "Territories",
+        "file_name": "territories.csv"
+    }
+
+]
