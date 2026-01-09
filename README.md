@@ -58,6 +58,6 @@ The project is divided into three core phases:
 
 ### 🧑‍💻 Author <br />
 Pushpak Umale \
-Data Engineer \
-[LinkdIn](https://www.linkedin.com/in/pushpakumale-152530) | [Portfolio](https://pushpakumale.github.io/portfolio/)
+Data Analyst \
+[LinkdIn](https://www.linkedin.com/in/pushpakumale) | [Portfolio](https://pushpakumale.github.io/portfolio/)
 
